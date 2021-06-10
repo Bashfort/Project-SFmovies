@@ -1,0 +1,525 @@
+Salutare! Numele meu este Lucas si sunt aici pentru a te ajuta sa gasesti filmul science fiction ...
+	:link
+	Te rog alege una dintre categoriile de filme science fiction
+		:Superheroes
+		Alege un subgen
+			:Action
+			Alege un superheroes universe
+				:Marvel Cinematic Universe / MCU
+				Alege una dintre fazele universului
+					:Faza 1
+					Alege unul dintre supereroii de mai jos
+						:1/3.Iron-Man
+						Alege un criteriu
+							:Primul film
+							Iron-Man
+							:Al doilea Film
+							Iron-Man 2
+						:2.Hulk
+						The Incredible Hulk
+						:4.Thor
+						Thor
+						:5.Captain America
+						Captain America: The First Avenger
+						:6.The Avengers
+						The Avengers
+					:Faza 2
+					Alege unul dintre supereroii de mai jos
+						:7.Iron-Man
+						Iron-Man 3
+						:8.Thor
+						Thor: The Dark World
+						:9.Captain America
+						Captain America: The Winter Soldier
+						:10.Guardians of the Galaxy
+						Guardians of the Galaxy Vol. 1
+						:11.The Avengers
+						Avengers: Age of Ultron
+						:12.Ant-Man
+						Ant-Man
+					:Faza 3
+					Alege unul dintre supereroii de mai jos
+						:13.Captain America
+						Captain America: Civil War
+						:14.Doctor Strange
+						Doctor Strange
+						:15.Guardians of the Galaxy
+						Guardians of the Galaxy Vol. 2
+						:16/23.Spider-Man
+						Alege un criteriu
+							:Primul film
+							Spider-Man: Homecoming
+							:Al doilea film
+							Spider-Man: Far From Home
+						:17.Thor
+						Thor: Ragnarok
+						:18.Black Panther
+						Black Panther
+						:19/22.The Avengers
+						Alege un criteriu
+							:Al treilea film
+							Avengers: Infinity War
+							:Al patrulea film
+							Avengers: Endgame
+						:20.Ant-Man
+						Ant-Man and the Wasp
+						:21.Captain Marvel
+						Captain Marvel
+				:X-Men
+				Alege una dintre trilogii
+					:Trilogia originala
+					Alege un criteriu
+						:Primul film
+						X-Men
+						:Al doilea film
+						X-Men 2
+						:Al treilea film
+						X-Men: The Last Stand
+					:Trilogia Wolverine
+					Alege un criteriu
+						:Primul film
+						X-Men Origins: Wolverine
+						:Al doilea film
+						The Wolverine
+						:Al treilea film
+						Logan
+					:Noua trilogie
+					Alege un criteriu
+						:Primul film
+						X-Men: First Class
+						:Al doilea film
+						X-Men: Days of Future Past
+						:Al treilea film
+						X-Men: Apocalypse
+						:Al patrulea film
+						X-Men: Dark Phoenix
+				:Sony
+				Alege un criteriu
+					:Trilogia originala Spider-Man cu Tobey Maguire
+					Alege un crietriu
+						:Primul film
+						Spider-Man
+						:Al doilea film
+						Spider-Man 2
+						:Al treilea film
+						Spider-Man 3
+					:Filme Spider-Man cu Andrew Garfield
+					Alege un film
+						:Primul film
+						The Amazing Spider-Man
+						:Al doilea film
+						The Amazing Spider-Man 2
+					:Film animat Spider-Man
+					Spider-Man: Into the Spider-Verse
+					:Ghost Rider
+					Alege un film
+						:Primul film
+						Ghost Rider
+						:Al doilea film
+						Ghost Rider: Spirit of Vengeance
+					:Poveste de origine
+					Alege un supererou
+						:Venom
+						Venom
+						:Bloodshot
+						Bloodshot
+				:DCEU
+				Alege un supererou
+					:Superman
+					Alege un criteriu
+						:Poveste de origine
+						Man of Steel
+						:VS Batman
+						Batman V Superman: Dawn of Justice
+					:Wonder Women
+					Alege un criteriu
+						:Primul film
+						Wonder Women
+						:Al doilea film
+						Wonder Women 84
+					:Aquaman
+					Aquaman
+					:Shazam
+					Shazam!
+					:Justice League
+					Alege un criteriu
+						:Filmul original
+						Justice League
+						:Versiunea lui Zack Snyder
+						Zack Snyder's Justice League
+			:Comedy
+			Vrei sa privesti un film PG sau +18?
+				:+18
+				Alege un supererou
+					:Deadpool
+					Alege un film
+						:Deadpool
+						Deadpool
+						:Deadpool 2
+						Deadpool 2
+					:Darkmen
+					Alege un film
+						:Darkman
+						Darkman
+						:Darkman II: The Return of Durant
+						Darkman II: The Return of Durant
+						:Darkman III: Die Darkman Die
+						Darkman III: Die Darkman Die
+				:PG
+				Doresti un film din universul Marvel sau DC?
+					:Marvel
+					Doresti sa privesti un film unde actiune se desfasoara in spatiul cosmic?
+						:DA
+						Alege franciza ta preferata dintre cele de mai jos
+							:Thor
+							Thor:Ragnarok
+							:Guardians of the Galaxy
+							Alege un criteriu
+								:Primul film
+								Guardians of the Galaxy
+								:Al doilea film
+								Guardians of the Galaxy Vol. II
+						:NU
+						Alege un criteriu
+							:Primul film
+							Ant-Man
+							:Al doilea film
+							Ant-Man and the Wasp
+					:DC
+					Alege un supererou
+						:Aquaman
+						Aquaman
+						:Shazam
+						Shazam!
+					:NU
+					The Mask
+			:Drama
+			Alege un superheroes universe
+				:M.Night universe
+				Alege un criteriu
+					:Primul film
+					Unbreakable
+					:Al doilea film
+					Split
+					:Al treilea film
+					Glass
+				:DC
+				Watchmen
+		:Alien
+		Alege un subgen
+			:Action
+			Alege intriga
+				:Invazie
+				Doresti un film cu actorul Tom Cruise?
+					:DA
+					Alege un regizor
+						:Steven Spielberg
+						War of the Worlds
+						:Doug Liman
+						Edge of Tomorrow
+					:NU
+					Alege un regizor
+						:Jonathan Liebesman
+						Battle Los Angeles
+						:Roland Emmerich
+						Alege un film
+							:Independence Day
+							Independence Day
+							:Independence Day: Resurgence
+							Independence Day: Resurgence
+				:Kaiju
+				Alege un universe
+					:Pacific Rim
+					Alege un film
+						:Pacific Rim
+						Pacific Rim
+						:Pacific Rim: Uprising
+						Pacific Rim: Uprising
+					:Monsters universe
+					Alege un film
+						:Godzilla
+						Godzilla
+						:Kong: Skull Island
+						Kong: Skull Island
+						:Godzilla: King of the Monsters
+						Godzilla: King of the Monsters
+						:Godzilla vs. Kong
+						Godzilla vs. Kong
+			:Thriller
+			Vrei sa alegi inca un subgen?
+				:Philosophical
+				Alege un criteriu
+					:Comercial
+					District 9
+					:Non-comercial
+					Arrival
+					:Plot Twist
+					Signs
+				:Horror
+				Alege un criteriu
+					:Franciza Alien
+					Alege un criteriu
+						:Filmele originale
+						Alege un criteriu
+							:Primul film
+							Alien
+							:Al doilea film
+							Aliens
+							:Al treilea film
+							Alien 3
+							:Al patrulea film
+							Alien Resurrection
+						:Filme antecedente
+						Alege un criteriu
+							:Primul film
+							Prometheus
+							:Al doilea film
+							Alien: Covenant
+					:Film classic
+					The Thing
+					:Film nou
+					A Quiet place
+		:Post-apocalyptic
+		Alege un subgen
+			:Action
+			Alege un criteriu
+				:Film solo
+				Alege o premisa
+					:Asasin
+					Equilibrium
+					:Dezastre naturale
+					2012
+				:Franciza
+				Alege o franciza
+					:Mad Max
+					Alege o varianta
+						:Trilogia clasica
+						Alege un criteriu
+							:Primul film
+							Mad Max
+							:Al doilea film
+							The Road Warrior
+							:Al treilea film
+							Mad Max Beyond Thunderdome
+						:Film modern
+						Mad Max: Fury Road
+					:Planet of the Apes
+					Alege un criteriu
+						:Primul film
+						Rise of the Planet of the Apes
+						:Al doilea film
+						Dawn of the Planet of the Apes
+						:Al treilea film
+						War for the Planet of the Apes
+			:Drama
+			Ce tip de film ai dori sa privesti?
+				:Film optimist
+				Alege un actor pentru filmul tau
+					:Chris Evans
+					Snowpiercer
+					:Un actor roman
+					Children of Men
+				:Film pesimist
+				Alege un actor pentru filmul tau
+					:Viggo Mortensen
+					The road
+					:Cillian Murphy
+					28 Days Later...
+		:Cosmic space
+		Alege un subgen
+			:Action
+			Alege o franciza
+				:Star Wars
+				Alege un criteriu
+					:Trilogia originala
+					Alege un criteriu
+						:Primul film
+						Star Wars: Ep IV - A New Hope
+						:Al doilea film
+						Star Wars: Ep V - The Empire Strikes Back
+						:Al treilea film
+						Star Wars: Ep VI - Return of the Jedi
+					:Trilogia antecedenta
+					Alege un criteriu
+						:Primul film
+						Star Wars: Ep I - The Phantom Menace
+						:Al doilea film
+						Star Wars: Ep II - Attack of the Clones
+						:Al treilea film
+						Star Wars: Ep III - Revenge of the Sith
+					:Trilogia precedenta
+					Alege un criteriu
+						:Primul film
+						Star Wars: Ep VII - The Force Awakens
+						:Al doilea film
+						Star Wars: Ep VIII - The Last Jedi
+						:Al treilea film
+						Star Wars: Ep IX - The Rise of Skywalker
+					:Filme particulare
+					Alege un personaj Star Wars
+						:Han Solo
+						Solo: A Star Wars Story
+						:Cassian Andor
+						Rogue One: A Star Wars Story
+				:Blade Runner
+				Alege un crieteriu
+					:Film clasic
+					Blade Runner
+					:Film nou
+					Blade Runner 2049
+			:Drama
+			Alege un scenariu
+				:Prevenirea apocalipsei
+				Alege un regizor
+					:Christopher Nolan
+					Interstellar
+					:Danny Boyle
+					Sunshine
+				:Natura umana vs spatiul cosmic
+				Alege un regizor
+					:Ridley Scott
+					The Martian
+					:Alfonso Cuarón
+					Gravity
+				:Cautarea raspunsului
+				Alege un regizor
+					:Stanley Kubrick
+					2001: A Space Odyssey
+					:James Gray
+					Ad Astra
+		:Speculative fiction
+		Alege un subgen
+			:Action
+			Doresti ca intriga filmului sa fie calatoria in timp sau vrei ceva diferit?
+				:Calatorie in timp
+				Doresti un film din franciza Terminator sau ceva diferit?
+					:Terminator
+					Alege o trilogie
+						:Trilogia clasica
+						Alege un film
+							:The Terminator
+							The Terminator
+							:Terminator 2: Judgment Day
+							Terminator 2: Judgment Day
+							:Terminator 3: Rise of the Machines
+							Terminator 3: Rise of the Machines
+						:Trilogia moderna
+						Alege un film
+							:Terminator Salvation
+							Terminator Salvation
+							:Terminator Genisys
+							Terminator Genisys
+							:Terminator: Dark Fate
+							Terminator: Dark Fate
+					:Vreau ceva diferit
+					Alege o varianta
+						:Personaje cu liber arbitru
+						Alege un actor
+							:Bruce Willis
+							Looper
+							:Ethan Hawke
+							Predestination
+						:Personaje fara liber arbitru
+						Alege un actor
+							:Robert Pattinson
+							Tenet
+							:Tom Cruise
+							Minority Report
+				:Vreau ceva diferit
+				Ce te intereseaza mai mult?
+					:Aspectul vizual
+					Ce te intereseaza mai mult la aspectul vizual al filmului?
+						:Lucru cu camera
+						Alege un stil de filmare
+							:Gravitaite zero
+							Inception
+							:Camera flexibila
+							Upgrade
+						:Efecte speciale
+						Alege un criteriu
+							:Efecte speciale artistice
+							Annihilation
+							:Efecte speciale gore
+							Overlord
+					:Premiza unica
+					Alege o premiza
+						:Premiza simpla
+						Alege obtiunea care te intriga cel mai mult
+							:Zombi
+							Overlord
+							:Cyberpunk
+							Upgrade
+						:Premiza complexa
+						Alege obtiunea care te intriga cel mai mult
+							:Biomutatie
+							Annihilation
+							:Lumea viselor
+							Inception
+			:Psychological
+			Alege o tema sociala
+				:Manipulare si incredere
+				Alege obtiunea care te intriga cel mai mult
+					:Manipulare
+					THX 1138
+					:Incredere
+					Cube
+				:Integrarea individului in societate
+				Alege obtiunea care te intriga cel mai mult
+					:Filmul contine scene care te pot afecta emotional(+18)
+					A Clockwork Orange
+					:Filmul abordeaza ideea de zeitate folosind elemente horro and sf
+					Donnie Darko
+			:Romance
+			Alege un crietriu
+				:De cuplu
+				Alege obtiunea care te intriga cel mai mult
+					:El, ea, provocarile si spatiul cosmic
+					Passengers
+					:El, ea, amintirile si ceilalti
+					Eternal Sunshine of the Spotless Mind
+				:"Film pentru ""exploratori"""
+				Alege obtiunea care te intriga cel mai mult
+					:Indragosteste-te in 45 de zile sau vei fi transformat intr-un animal
+					Lobster
+					:Relatie intima cu un chatbot
+					Her
+			:Adventure
+			Alege ce vrei sa explorezi
+				:O simulare a unei lumi futuriste
+				Alege un tip de simulare
+					:Simulare virtuala
+					Ready Player One
+					:Simulare fizica
+					Alege un film
+						:Westworld
+						Westwolrd
+						:Futureworld
+						Futureworld
+				:O lume fantastica
+				Alege o franciza
+					:Maze Runner
+					Alege un film
+						:The Maze Runner
+						The Maze Runner
+						:Maze Runner: The Scorch Trials
+						Maze Runner: The Scorch Trials
+						:Maze Runner: The Death Cure
+						Maze Runner: The Death Cure
+					:Jurassic Park
+					Alege o trilogie
+						:Trilogia clasica
+						Alege un film
+							:Jurassic Park
+							Jurassic Park
+							:The Lost World: Jurassic Park
+							The Lost World: Jurassic Park
+							:Jurassic Park III
+							Jurassic Park III
+						:Trilogia moderna
+						Alege un film
+							:Jurassic World
+							Jurassic World
+							:Jurassic World: Fallen Kingdom
+							Jurassic World: Fallen Kingdom
+							:Jurassic World: Dominion
+							Jurassic World: Dominion
